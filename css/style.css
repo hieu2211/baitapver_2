@@ -1,0 +1,22 @@
+.khung {
+    width:980px ;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+@media screen and (max-width:768px)
+{
+    .khung{
+        width: 100%;
+    }
+}
+@media screen and (max-width:576px)
+{
+    .khung{
+        width: 100%;
+    }
+}
+@media screen and (max-width:480px){
+    .khung{
+        width: 100%;
+    }
+}
